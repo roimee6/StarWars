@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "install": "^0.13.0",
+    "npm": "^9.6.4",
+    "path": "^0.12.7",
+    "puppeteer": "^19.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-screen-recorder": "^2.1.2"
+  }
+}
